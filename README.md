@@ -1,6 +1,10 @@
 # 0mission0
 weekly / daily mission script for ESX FiveM servers
 
+preview: https://youtu.be/aUAWjVUd7mQ
+
+requirement: ESX & oxmysql
+
 To add points for mission, trigger the server event
 觸發伺服器事件來給予任務分數
 
