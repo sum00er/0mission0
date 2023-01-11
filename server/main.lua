@@ -172,7 +172,7 @@ function givemission(d, h, m)
     TriggerClientEvent('0mission0:forceClose', -1)
 end
 
-TriggerEvent('cron:runAt', 17, 32, givemission)
+TriggerEvent('cron:runAt', Config.time, 0, givemission)
 
 AddEventHandler('onResourceStart', function(resource)
     Citizen.Wait(1000)
