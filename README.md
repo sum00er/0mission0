@@ -5,6 +5,8 @@ preview: https://youtu.be/aUAWjVUd7mQ
 
 requirement: ESX & oxmysql
 
+support: https://discord.gg/pjuPHPrHnx
+
 ### Instruction
 
 To add points for mission, trigger the server event
